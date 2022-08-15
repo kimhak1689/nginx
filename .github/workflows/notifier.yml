@@ -33,3 +33,7 @@ jobs:
         message: |
           - The ${{ github.event_name }} event triggered final step.
           - echo This event is a pull request that had an assignee removed.
+          <b>Stage</b> : JENKINS POS 
+          Status : Success 
+          Version: 6  
+          Environment  : Development
